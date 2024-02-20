@@ -25,7 +25,7 @@ Images
 
 ~~~markdown
 
-[![PWXPOB](assets/img/mr-rob-gnome.jpg)(https://rwxrob/live)
+[![PWXPOB](assets/img/mr-rob-gnome.jpg)](https://rwxrob/live)
 
 ~~~
 
